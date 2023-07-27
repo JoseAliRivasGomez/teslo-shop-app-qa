@@ -11,7 +11,7 @@ class MainActivity: FlutterActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        AppCenter.start(getApplication(), "0cb17681-bcd7-4b49-a0b8-103ef93c951c", Analytics::class.java, Crashes::class.java)
+        // AppCenter.start(getApplication(), "0cb17681-bcd7-4b49-a0b8-103ef93c951c", Analytics::class.java, Crashes::class.java)
 
 
     }
