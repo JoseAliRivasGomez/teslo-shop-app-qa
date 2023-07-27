@@ -83,4 +83,5 @@ dependencies {
     // def appCenterSdkVersion = '4.4.5'
     // implementation "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
     // implementation "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"
+    // AppCenter.start(getApplication(), "0cb17681-bcd7-4b49-a0b8-103ef93c951c", Analytics::class.java, Crashes::class.java)
 }
